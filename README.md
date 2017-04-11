@@ -1,8 +1,6 @@
-# coderdotnew_sinatra_template
-For this template for any Sinatra applications you will build! Remember, the file structure is going to remain nearly identical, though you may want to change the `model` file names and the `view` file names to better fit the specifications of your application functionality.
+# Quiz App Template
+For a project option, use this template to create a quiz app. In the `index.erb` file you will find the questions and answer options. Feel free to write any question with any answer choices to follow (obviously with 1 correct answer each).
 
-Have fun building and use this template as often as you wish!  
+It is important to change the `value=""` option. For instance, if your answer for a question is the "Phoenix", you need to change the value to be the same thing. This also means, you must change the comparison values in `model.rb` to check for the correct answer.
 
-##### Last, but not least... shout out to the real Sinatra!  
-![1](http://i.imgur.com/sajVKhr.gif)    
-##### #franksinatra #og #sinatra
+Feel free to style this app however you choose!
